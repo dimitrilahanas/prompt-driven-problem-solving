@@ -6,10 +6,12 @@ Prompt-driven practice for building structured Python and Java solutions using c
 
 This repository is a deliberate practice space focused on improving the way I design and implement solutions to programming problems.
 
-Each exercise begins with a written prompt.  
+Each exercise begins with a generated prompt.  
 Before writing code, the solution is broken down into a clear step-by-step plan using a **words → code table**, where logical actions are translated into their programmatic equivalents.
 
 This approach reinforces structured thinking and helps formalise the process of turning requirements into clean, predictable, and maintainable code.
+
+Prompts are generated with the assistance of ChatGPT to provide a consistent and scalable source of practice problems.
 
 ## Workflow
 
