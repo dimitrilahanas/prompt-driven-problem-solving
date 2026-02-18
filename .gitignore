@@ -1,0 +1,47 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+*.egg
+*.pytest_cache/
+*.mypy_cache/
+*.pyre/
+*.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# ========================
+# Java
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse / IntelliJ / NetBeans project files
+*.project
+*.classpath
+*.settings/
+*.idea/
+*.iml
+out/
+target/
+bin/
+
+# ========================
+# OS / Misc
+# ========================
+.DS_Store
+Thumbs.db
+*.log
