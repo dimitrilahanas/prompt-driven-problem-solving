@@ -11,6 +11,6 @@
 # PATTERN
 1. Read loop pattern
 2. Sum pattern + Output pattern
-3. .length of array + Output pattern
+3. Count Pattern + Output pattern
 4. Output pattern with answers from 2. / 3.
 5. Output pattern

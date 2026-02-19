@@ -1,0 +1,1 @@
+mark = int(input("Enter mark: "))
